@@ -1,6 +1,8 @@
 # Hello, we are the eSports Cologne Devs! 👋
 
 ![Discord](https://img.shields.io/discord/672890864888053800?label=Discord&logo=discord)
+![Twitter](https://img.shields.io/twitter/follow/esportscologne?style=social)
+![Twitch](https://img.shields.io/twitch/status/esportscologne?logo=twitch)
 
 ## About us
 All the Overlays, Websites and Tools that you can see [on-stream](https://twitch.tv/esportscologne) or on our Webpages, is developed and maintained by us. Everyone of our dev's got a different background and a different relation to eSports and Coding, but combined we make up a pretty good team. **#ECOWIN**
